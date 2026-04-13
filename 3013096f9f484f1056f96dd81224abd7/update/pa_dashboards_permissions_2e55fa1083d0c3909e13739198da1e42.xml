@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="RPA published per year">fee78f8d1b478d10dba20b56464bcb11</dashboard>
+        <delete>true</delete>
+        <group/>
+        <identity>pa_admin</identity>
+        <read>true</read>
+        <role display_value="pa_admin" name="pa_admin">a4cc30b3bf101100b96dac808c073918</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+        <sys_created_on>2026-04-13 07:18:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2e55fa1083d0c3909e13739198da1e42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_admin</sys_name>
+        <sys_package display_value="Brunch App" source="x_undul_brunch_app">3013096f9f484f1056f96dd81224abd7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Brunch App">3013096f9f484f1056f96dd81224abd7</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_2e55fa1083d0c3909e13739198da1e42</sys_update_name>
+        <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+        <sys_updated_on>2026-04-13 07:18:49</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>
