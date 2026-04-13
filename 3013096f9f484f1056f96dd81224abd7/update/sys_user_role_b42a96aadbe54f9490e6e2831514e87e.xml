@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Brunch Coordinator - Can manage all brunch items and coordinate the event</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <federated_id>KIRSdBFiu21q3kXiObDgL0sh2UKlg43JzkNaGVlWBAY=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_undul_brunch_app.brunch_coordinator</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>brunch_coordinator</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+        <sys_created_on>2026-04-10 15:17:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b42a96aadbe54f9490e6e2831514e87e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_undul_brunch_app.brunch_coordinator</sys_name>
+        <sys_package display_value="Brunch App" source="x_undul_brunch_app">3013096f9f484f1056f96dd81224abd7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Brunch App">3013096f9f484f1056f96dd81224abd7</sys_scope>
+        <sys_update_name>sys_user_role_b42a96aadbe54f9490e6e2831514e87e</sys_update_name>
+        <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+        <sys_updated_on>2026-04-10 15:17:50</sys_updated_on>
+    </sys_user_role>
+</record_update>

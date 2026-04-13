@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_undul_brunch_app_brunch_items" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_undul_brunch_app_brunch_items" element="NULL" name="x_undul_brunch_app_brunch_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c7a0e5679f4c4f1056f96dd81224ab78</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2026-04-10 17:13:25</sys_created_on>
+            <sys_id>17a0e5679f4c4f1056f96dd81224ab7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2026-04-10 17:13:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_undul_brunch_app_brunch_items" element="NULL" name="x_undul_brunch_app_brunch_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c7a0e5679f4c4f1056f96dd81224ab78</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2026-04-10 17:13:25</sys_created_on>
+            <sys_id>93a0e5679f4c4f1056f96dd81224ab7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2026-04-10 17:13:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>item_name</element>
+            <list_id display_value="x_undul_brunch_app_brunch_items" element="NULL" name="x_undul_brunch_app_brunch_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c7a0e5679f4c4f1056f96dd81224ab78</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2026-04-10 17:13:25</sys_created_on>
+            <sys_id>1ba0e5679f4c4f1056f96dd81224ab7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2026-04-10 17:13:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>labels</element>
+            <list_id display_value="x_undul_brunch_app_brunch_items" element="NULL" name="x_undul_brunch_app_brunch_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c7a0e5679f4c4f1056f96dd81224ab78</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2026-04-10 17:13:25</sys_created_on>
+            <sys_id>9fa0e5679f4c4f1056f96dd81224ab7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2026-04-10 17:13:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>participant_name</element>
+            <list_id display_value="x_undul_brunch_app_brunch_items" element="NULL" name="x_undul_brunch_app_brunch_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c7a0e5679f4c4f1056f96dd81224ab78</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2026-04-10 17:13:25</sys_created_on>
+            <sys_id>17a0e5679f4c4f1056f96dd81224ab7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2026-04-10 17:13:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_undul_brunch_app_brunch_items</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2026-04-10 17:13:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7a0e5679f4c4f1056f96dd81224ab78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_undul_brunch_app_brunch_items</sys_name>
+            <sys_package display_value="Brunch App" source="x_undul_brunch_app">3013096f9f484f1056f96dd81224abd7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Brunch App">3013096f9f484f1056f96dd81224abd7</sys_scope>
+            <sys_update_name>sys_ui_list_x_undul_brunch_app_brunch_items_null</sys_update_name>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2026-04-10 17:13:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

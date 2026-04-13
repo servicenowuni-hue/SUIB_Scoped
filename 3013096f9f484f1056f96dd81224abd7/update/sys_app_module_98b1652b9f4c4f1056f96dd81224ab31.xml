@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Brunch Coordinator">de712de79f4c4f1056f96dd81224ab85</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Dietary label</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_undul_brunch_app_dietary_labels</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+        <sys_created_on>2026-04-10 17:18:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98b1652b9f4c4f1056f96dd81224ab31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dietary label</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Brunch App" source="x_undul_brunch_app">3013096f9f484f1056f96dd81224abd7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Brunch App">3013096f9f484f1056f96dd81224abd7</sys_scope>
+        <sys_update_name>sys_app_module_98b1652b9f4c4f1056f96dd81224ab31</sys_update_name>
+        <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+        <sys_updated_on>2026-04-10 17:18:13</sys_updated_on>
+        <timeline_page/>
+        <title>Dietary label</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
